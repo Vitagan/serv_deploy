@@ -1,2 +1,1 @@
-My own server deploy script
-
+My own script for deploy server
